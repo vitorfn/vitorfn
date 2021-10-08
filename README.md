@@ -4,13 +4,6 @@
 
 ## Me encontre em:
 
-<a target="_blank" href="https://www.linkedin.com/in/fnvitor/">
-  <img align="left" alt="LinkedIn" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
-  
-  <a target="_blank" href="mailto:vitorfnunes@gmail.com">
-  <img align="left" alt="E-mail" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
-</a>
-
-<a target="_blank" href="https://www.instagram.com/vi.torferreira">
-  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-V%C3%ADtor%20Ferreira-22313f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fvitor/)](https://www.linkedin.com/in/fvitor/) 
+[![Gmail](https://img.shields.io/badge/-vitorfnunes@gmail.com-22313f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorfnunes@gmail.com)](mailto:vitorfnunes@gmail.com)
+[![Instagram](https://img.shields.io/badge/-V%C3%ADtor%20Ferreira-22313f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vi.torferreira)](mailto:vitorfnunes@gmail.com)
