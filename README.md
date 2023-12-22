@@ -1,6 +1,6 @@
 ### Olá! 👋
 
- - Graduando em Sistemas de Informação pela Universidade Federal de Lavras - UFLA
+ - Sistemas de Informação - Universidade Federal de Lavras (UFLA)
 
 ## Me encontre em:
 
